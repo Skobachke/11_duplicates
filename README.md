@@ -1,30 +1,36 @@
-# Anti-Duplicator
+Anti-Duplicator
+===================
 
--This program was written to search for duplicate files in a folder and all subfolders.
 
--Compare files by name and size.
+This program was written to search for duplicate files in a folder and all subfolders.
 
-1. When you run the program you must enter the path to the folder:  
+----------
 
-     Enter the path:
 
-Example: run the program in the current directory.  
+Manual
+-------------
 
-     Enter the path:.
+When you run the program you must enter the path to the folder:  
 
-Example: run the program in the directory 'E:\books'.  
+: >Enter the path:
 
-     Enter the path:E:\books 
+Example:
+: run the program in the current directory.  
 
-2. As a result of work the program displays a numbered list of duplicate files, if found duplicates:  
+: >Enter the path:.
 
-     Enter the path:E:\books
-     1. The match files E:\books\RE4B-RU.pdf and E:\books\1\RE4B-RU.pdf!
+Example:
+: run the program in the directory 'E:\books'.
+  
+: >Enter the path:E:\books 
 
-3. If no duplicates, a message is displayed:  
+As a result of work the program displays a numbered list of duplicate files, if found duplicates:  
 
-     Enter the path:E:\books
-     No matches found!
+: >The match files E:\books\RE4B-RU.pdf and E:\books\1\RE4B-RU.pdf!
+
+If no duplicates, a message is displayed:  
+
+: >No matches found!
 
 # Project Goals
 
