@@ -8,15 +8,11 @@ Compare files by name and size.
 
      Введите путь к папке:
 
-Example:  
-
-run the program in the current directory.  
+ Example: run the program in the current directory.  
 
      Введите путь к папке:.
 
-Example:  
-
-run the program in the directory 'E:\books'.  
+ Example: run the program in the directory 'E:\books'.  
 
      Введите путь к папке:E:\books 
 
