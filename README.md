@@ -14,13 +14,11 @@ When you run the program you must enter the path to the folder:
 
     Enter the path:
 
-Example:
-: run the program in the current directory.  
+*Example*: run the program in the current directory.  
 
 	Enter the path: .
 
-Example:
-: run the program in the directory 'E:\books'.
+**Example:** run the program in the directory 'E:\books'.
   
 	Enter the path: E:\books 
 
