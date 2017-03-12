@@ -1,35 +1,38 @@
-Anti-Duplicator
+Анти-дубликатор
 ===================
 
 
-This program was written to search for duplicate files in a folder and all subfolders.
-
-----------
+Эта программа была написана для поиска дубликатов среди всех файлов в директории.
 
 
-Manual
+Инструкция
 -------------
 
-**When you run the program you must enter the path to the folder:**  
+**Когда вы запускаете программу, нужно ввести путь к папке:**  
 
-    Enter the path:
+    Введите путь к папке: 
 
-*Example:* run the program in the current directory.  
+**Если не ввести путь, будет выведено сообщение:**  
+    Введите путь!
 
-	Enter the path: .
+*Пример:* запуск программы в текущей директории.  
 
-*Example:* run the program in the directory 'E:\books'.
+	Введите путь к папке: .
+
+*Пример:* запуск программы в директории 'E:\books'.
   
-	Enter the path: E:\books 
+	Введите путь к папке: E:\books 
 
-**As a result of work the program displays a numbered list of duplicate files, if found duplicates:**  
+**В результате работы программы будет получен нумерованный список, если совпадения файлов найдены.:**  
 
 	The match files E:\books\RE4B-RU.pdf and E:\books\1\RE4B-RU.pdf!
 
-**If no duplicates, a message is displayed:**  
+**Файлы сравниваются по имени и размеру.**  
 
-	No matches found!
+**Если совпадений не найдено, будет выведено сообщение.:**  
 
-# Project Goals
+	Совпадения не найдены!
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+# Цель проекта
+
+Код написан для образовательных целей. Учебный курс для веб-разработчиков - [DEVMAN.org](https://devman.org)
